@@ -285,7 +285,6 @@ $("#remove-tasks").on("click", function() {
   console.log(tasks);
   saveTasks();
 });
-
 // load tasks for the first time
 loadTasks();
 
